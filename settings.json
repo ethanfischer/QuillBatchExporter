@@ -1,0 +1,25 @@
+{                                                   
+   "Exporter": "FBX",                              
+   "InputFile": "D:/Documents/Quill/export/pancakes",                             
+   "ExtraInputs": [],                              
+   "Options":                                            
+   {                                               
+       "BakeTransforms": false,                          
+       "ExcludeList": [],                          
+       "UseFullNames": false,                            
+       "ExportCurves": false,                            
+       "ExportHidden": true,                             
+       "ExportMeshes": true,                             
+       "Scale": 100.0,                                   
+       "UVSafetyBandTexels": 8.0,                        
+       "GroupExtraInputs": false,                        
+       "Optimize":                                       
+       {                                                 
+           "Optimize": false,                            
+           "OptimizeKeepOldLayers": false,               
+           "OptimizeSimplifyThreshhold": 0.02,           
+           "OptimizeIncludeList": []               
+       }                                                 
+   },                                                    
+   "OutputFile": "D:/Documents/Quill/export/pancakes"                             
+}                                                  
